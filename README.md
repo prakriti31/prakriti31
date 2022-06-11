@@ -20,7 +20,6 @@ I'm a computer science enthusiast encouraged to work with an organization that p
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakriti31&show_icons=true&locale=en&layout=compact" alt="prakriti31" /></p>
-<hr>
-<hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakriti31&show_icons=true&locale=en" alt="prakriti31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakriti31&show_icons=true&locale=en&layout=compact" alt="prakriti31" width="500" height="400" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti31&show_icons=true&locale=en" alt="prakriti31" /></p>
