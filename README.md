@@ -14,14 +14,13 @@ I'm a computer science enthusiast encouraged to work with an organization that p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prakriti-sharma-123ba4194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakriti-sharma" height="30" width="40" /></a> <a href="https://auth.geeksforgeeks.org/user/prakritimksharma/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakritimksharma" height="30" width="40" /></a>
-
-</p>
+<a href="https://www.linkedin.com/in/prakriti-sharma-123ba4194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakriti-sharma" height="30" width="40" /></a> <a href="https://auth.geeksforgeeks.org/user/prakritimksharma/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakritimksharma" height="30" width="40" /></a> </p>
 
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakriti31&show_icons=true&locale=en&layout=compact" alt="prakriti31" /></p>
-
+<hr>
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakriti31&show_icons=true&locale=en" alt="prakriti31" /></p>
