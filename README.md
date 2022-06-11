@@ -4,7 +4,7 @@
 I'm a computer science enthusiast encouraged to work with an organization that promotes intelligence, innovation and hard work to help solve real world problems. Exploring through Web Development, Android development and Machine Learning, I am well versed with various computer languages and always willing to learn more.</h2>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charu510&label=Profile%20views&color=0e75b6&style=flat" alt="prakriti31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakriti31&label=Profile%20views&color=0e75b6&style=flat" alt="prakriti31" /> </p>
 
 - 🌱 I’m currently learning **Competitive Programming**
 
