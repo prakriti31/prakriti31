@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti31&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 🔥 LeetCode Progress
 
 <p align="center">
@@ -16,24 +24,13 @@
 
 ## 💼 Experience
 
-- 🧑‍💻 ~2 years of software engineering experience across distributed systems, API design, automation, and DevOps.
+- 🧑‍💻 ~3 years of software engineering experience across distributed systems, API design, automation, and DevOps.
 - 🏢 Worked at **Cashfree Payments**, **Illinois Institute of Technology**, **ThyssenKrupp Steels**.
 - 🧪 Exposure to **ML-integrated backend**, **CI/CD**, and **observability pipelines**.
 
 ---
 
-## 💡 Skills
-
-<div align="center">
-
-| Domain | Technologies |
-|--------|--------------|
-| **Languages** | Java, Python, JavaScript/TypeScript, C#, C++, Rust, Kotlin |
-| **Frameworks** | React, React Native, Spring Boot, .NET Core, Django, FastAPI, NestJS |
-| **Cloud & DevOps** | AWS (EC2/S3/X-Ray), Docker, Kubernetes, DigitalOcean, Prometheus, Grafana |
-| **Databases** | MySQL, MongoDB, Firebase, Oracle, PostgreSQL, Elasticsearch |
-| **Testing & Tools** | Selenium, Appium, JUnit, PyTest, JMeter, Bitbucket, GitHub, BrowserStack |
-
-</div>
+## 📌 Resume, Portfolio & Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakritisharma31/)
 
 ---
