@@ -25,7 +25,7 @@
 
 ## 💼 Experience
 
-- 🧑‍💻 ~3 years of software engineering experience across distributed systems, API design, automation, and DevOps.
+- 🧑‍💻 ~2 years of software engineering experience across distributed systems, API design, automation, and DevOps.
 - 🏢 Worked at **Cashfree Payments**, **Illinois Institute of Technology**, **ThyssenKrupp Steels**.
 - 🧪 Exposure to **ML-integrated backend**, **CI/CD**, and **observability pipelines**.
 
@@ -44,13 +44,5 @@
 | **Testing & Tools** | Selenium, Appium, JUnit, PyTest, JMeter, Bitbucket, GitHub, BrowserStack |
 
 </div>
-
----
-
-## 📌 Resume, Portfolio & Links
-
-- 🔗 [Resume (PDF)](https://github.com/prakriti31/prakriti31/blob/main/PrakritiSharma_SoftwareEngineer.pdf)
-- 🌐 [Portfolio Website](https://prakriti31.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakritisharma31/)
 
 ---
