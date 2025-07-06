@@ -14,23 +14,7 @@
 
 ---
 
-## 🔥 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/prakritimksharma?theme=unicorn&ext=contest" />
-</p>
-
----
-
-## 💼 Experience
-
-- 🧑‍💻 ~3 years of software engineering experience across distributed systems, API design, automation, and DevOps.
-- 🏢 Worked at **Cashfree Payments**, **Illinois Institute of Technology**, **ThyssenKrupp Steels**.
-- 🧪 Exposure to **ML-integrated backend**, **CI/CD**, and **observability pipelines**.
-
----
-
-## 📌 Resume, Portfolio & Links
+## 📌 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/prakritisharma31/)
 
 ---
