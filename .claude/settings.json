@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit -m ' *)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(gh api *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('default_branch:', d.get\\('default_branch'\\)\\); print\\('size:', d.get\\('size'\\)\\); print\\('created_at:', d.get\\('created_at'\\)\\); print\\('updated_at:', d.get\\('updated_at'\\)\\); print\\('pushed_at:', d.get\\('pushed_at'\\)\\)\")"
+    ]
+  }
+}
