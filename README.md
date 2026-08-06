@@ -271,42 +271,6 @@ I'm currently building GenAI agents for pricing and quoting at John Cockerill In
 </table>
 <br />
 
-<h2 align="center"> DevOps Stats Matrix</h2>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=prakriti31&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-statss-inky.vercel.app/api?username=prakriti31&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<img height="165" src="https://leetcard.jacoblin.cool/prakriti31?theme=dark&font=Nunito&hide_border=true"/>
-
-</div>
-
-
-
-<br/><br/>
-<!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=prakriti31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-<br/><br/>
-</div>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakriti31&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prakriti31/prakriti31/blob/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prakriti31/prakriti31/blob/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://github.com/prakriti31/prakriti31/blob/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-
-
-
 ## 🚀 Featured Projects
 
 - **[Velox/Presto – Distance Function Registration Fix](https://github.com/facebookincubator/velox)** (Meta Open Source) — `C++ · Velox · Presto · CMake · GTest`
